@@ -1,5 +1,5 @@
-# artisan-python-learning-material
-A common place to put learning material surrounding all that is Python.
+# Lunch and Learn
+A repo that holds the material from my lunch and learn presentation.
 
 ## Setup
 Below are the steps to get going with this repo:
